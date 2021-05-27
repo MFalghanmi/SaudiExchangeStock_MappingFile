@@ -1,0 +1,206 @@
+Sector,IndustryGroup,Code,Company
+Energy,Energy,2030,SARCO
+Energy,Energy,2222,SAUDI ARAMCO
+Energy,Energy,2380,PETRO RABIGH
+Energy,Energy,4030,BAHRI
+Energy,Energy,4200,ALDREES
+Materials,Materials,1201,TAKWEEN
+Materials,Materials,1202,MEPCO
+Materials,Materials,1210,BCI
+Materials,Materials,1211,MAADEN
+Materials,Materials,1301,ASLAK
+Materials,Materials,1304,ALYAMAMAH STEEL
+Materials,Materials,1320,SSP
+Materials,Materials,2001,CHEMANOL
+Materials,Materials,2002,PETROCHEM
+Materials,Materials,2010,SABIC
+Materials,Materials,2020,SAFCO
+Materials,Materials,2060,TASNEE
+Materials,Materials,2090,NGC
+Materials,Materials,2150,ZOUJAJ
+Materials,Materials,2170,ALUJAIN
+Materials,Materials,2180,FIPCO
+Materials,Materials,2200,APC
+Materials,Materials,2210,NAMA CHEMICALS
+Materials,Materials,2220,MAADANIYAH
+Materials,Materials,2240,ZAMIL INDUST
+Materials,Materials,2250,SIIG
+Materials,Materials,2290,YANSAB
+Materials,Materials,2300,SPM
+Materials,Materials,2310,SIPCHEM
+Materials,Materials,2330,ADVANCED
+Materials,Materials,2350,SAUDI KAYAN
+Materials,Materials,3001,HCC
+Materials,Materials,3002,NAJRAN CEMENT
+Materials,Materials,3003,CITY CEMENT
+Materials,Materials,3004,NORTHERN CEMENT
+Materials,Materials,3005,UACC
+Materials,Materials,3007,OASIS
+Materials,Materials,3008,ALKATHIRI
+Materials,Materials,3010,ACC
+Materials,Materials,3020,YSCC
+Materials,Materials,3030,SAUDI CEMENT
+Materials,Materials,3040,QACCO
+Materials,Materials,3050,SPCC
+Materials,Materials,3060,YCC
+Materials,Materials,3080,EPCCO
+Materials,Materials,3090,TCC
+Materials,Materials,3091,JOUF CEMENT
+Industrials,Capital Goods,1212,ASTRA INDUSTRIAL
+Industrials,Capital Goods,1302,BAWAN
+Industrials,Capital Goods,1303,EIC
+Industrials,Capital Goods,2040,SAUDI CERAMICS
+Industrials,Capital Goods,2110,SAUDI CABLE
+Industrials,Capital Goods,2140,AYYAN
+Industrials,Capital Goods,2160,AMIANTIT
+Industrials,Capital Goods,2320,ALBABTAIN
+Industrials,Capital Goods,2360,SVCP
+Industrials,Capital Goods,2370,MESC
+Industrials,Capital Goods,4140,SIECO
+Industrials,Capital Goods,4141,ALOMRAN
+Industrials,Capital Goods,1330,ALKHODARI
+Industrials,Commercial & Professional Svc,1831,MAHARAH
+Industrials,Commercial & Professional Svc,4270,SPPC
+Industrials,Commercial & Professional Svc,6004,CATERING
+Industrials,Transportation,2190,SISCO
+Industrials,Transportation,4031,SGS
+Industrials,Transportation,4040,SAPTCO
+Industrials,Transportation,4110,BATIC
+Industrials,Transportation,4260,BUDGET SAUDI
+Consumer Discretionary,Consumer Durables & Apparel,1213,NASEEJ
+Consumer Discretionary,Consumer Durables & Apparel,2130,SIDC
+Consumer Discretionary,Consumer Durables & Apparel,2340,ALABDULLATIF
+Consumer Discretionary,Consumer Durables & Apparel,4011,LAZURDE
+Consumer Discretionary,Consumer Durables & Apparel,4012,ALASEEL
+Consumer Discretionary,Consumer Durables & Apparel,4180,FITAIHI GROUP
+Consumer Discretionary,Consumer Services,1810,SEERA
+Consumer Discretionary,Consumer Services,1820,ALHOKAIR GROUP
+Consumer Discretionary,Consumer Services,1830,FITNESS TIME
+Consumer Discretionary,Consumer Services,4010,DUR
+Consumer Discretionary,Consumer Services,4170,TECO
+Consumer Discretionary,Consumer Services,4290,ALKHALEEJ TRNG
+Consumer Discretionary,Consumer Services,4291,NCLE
+Consumer Discretionary,Consumer Services,4292,ATAA
+Consumer Discretionary,Consumer Services,6002,HERFY FOODS
+Consumer Discretionary,Consumer Services,6012,RAYDAN
+Consumer Discretionary,Media,4070,TAPRCO
+Consumer Discretionary,Media,4210,SRMG
+Consumer Discretionary,Retailing,1214,SHAKER
+Consumer Discretionary,Retailing,4003,EXTRA
+Consumer Discretionary,Retailing,4008,SACO
+Consumer Discretionary,Retailing,4050,SASCO
+Consumer Discretionary,Retailing,4051,BAAZEEM
+Consumer Discretionary,Retailing,4190,JARIR
+Consumer Discretionary,Retailing,4240,ALHOKAIR
+Consumer Discretionary,Retailing,4191,ABO MOATI
+Consumer Staples,Food & Staples Retailing,4006,FARM SUPERSTORES
+Consumer Staples,Food & Staples Retailing,4061,ANAAM HOLDING
+Consumer Staples,Food & Staples Retailing,4160,THIMAR
+Consumer Staples,Food & Staples Retailing,4001,A.OTHAIM MARKET
+Consumer Staples,Food & Beverages,2050,SAVOLA GROUP
+Consumer Staples,Food & Beverages,2100,WAFRAH
+Consumer Staples,Food & Beverages,2270,SADAFCO
+Consumer Staples,Food & Beverages,2280,ALMARAI
+Consumer Staples,Food & Beverages,6001,HB
+Consumer Staples,Food & Beverages,6010,NADEC
+Consumer Staples,Food & Beverages,6020,GACO
+Consumer Staples,Food & Beverages,6040,TADCO
+Consumer Staples,Food & Beverages,6050,SFICO
+Consumer Staples,Food & Beverages,6060,SHARQIYAH DEV
+Consumer Staples,Food & Beverages,6070,ALJOUF
+Consumer Staples,Food & Beverages,6090,JAZADCO
+Health Care,Health Care Equipment & Svc,2230,CHEMICAL
+Health Care,Health Care Equipment & Svc,4002,MOUWASAT
+Health Care,Health Care Equipment & Svc,4004,DALLAH HEALTH
+Health Care,Health Care Equipment & Svc,4005,CARE
+Health Care,Health Care Equipment & Svc,4007,ALHAMMADI
+Health Care,Health Care Equipment & Svc,4009,SAUDI GERMAN HOSPTL
+Health Care,Pharma, Biotech & Life Science,4013,SULAIMAN ALHABIB
+Health Care,Pharma, Biotech & Life Science,2070,SPIMACO
+Financials,Banks,1010,RIBL
+Financials,Banks,1020,BJAZ
+Financials,Banks,1030,SAIB
+Financials,Banks,1050,BSFR
+Financials,Banks,1060,SABB
+Financials,Banks,1080,ANB
+Financials,Banks,1090,SAMBA
+Financials,Banks,1120,ALRAJHI
+Financials,Banks,1140,ALBILAD
+Financials,Banks,1150,ALINMA
+Financials,Banks,1180,NCB
+Financials,Banks,1182,AMLAK
+Financials,Diversified Financials,2120,SAIC
+Financials,Diversified Financials,4080,ASEER
+Financials,Diversified Financials,4130,ALBAHA
+Financials,Diversified Financials,4280,KINGDOM
+Financials,Insurance,8010,TAWUNIYA
+Financials,Insurance,8012,JAZIRA TAKAFUL
+Financials,Insurance,8020,MALATH INSURANCE
+Financials,Insurance,8030,MEDGULF
+Financials,Insurance,8040,ALLIANZ SF
+Financials,Insurance,8050,SALAMA
+Financials,Insurance,8060,WALAA
+Financials,Insurance,8070,ARABIAN SHIELD
+Financials,Insurance,8080,SABB TAKAFUL
+Financials,Insurance,8100,SAICO
+Financials,Insurance,8120,GULF UNION
+Financials,Insurance,8130,ATC
+Financials,Insurance,8140,ALAHLIA
+Financials,Insurance,8150,ACIG
+Financials,Insurance,8160,AICC
+Financials,Insurance,8170,ALETIHAD
+Financials,Insurance,8180,ALSAGR INSURANCE
+Financials,Insurance,8190,UCA
+Financials,Insurance,8200,SAUDI RE
+Financials,Insurance,8210,BUPA ARABIA
+Financials,Insurance,8230,ALRAJHI TAKAFUL
+Financials,Insurance,8240,CHUBB
+Financials,Insurance,8250,AXA COOPERATIVE
+Financials,Insurance,8260,GULF GENERAL
+Financials,Insurance,8270,BURUJ
+Financials,Insurance,8280,ALALAMIYA
+Financials,Insurance,8290,SOLIDARITY
+Financials,Insurance,8300,WATANIYA
+Financials,Insurance,8310,AMANA INSURANCE
+Financials,Insurance,8311,ENAYA
+Financials,Insurance,8312,ALINMA TOKIO M
+Financials,Insurance,8110,WAFA INSURANCE
+Information Technology,Software & Services,7200,MIS
+Information Technology,Software & Services,7201,ARAB SEA
+Communication Services,Telecommunication Services,7010,STC
+Communication Services,Telecommunication Services,7020,ETIHAD ETISALAT
+Communication Services,Telecommunication Services,7030,ZAIN KSA
+Communication Services,Telecommunication Services,7040,ATHEEB TELECOM
+Utilities,Utilities,2080,GASCO
+Utilities,Utilities,5110,SAUDI ELECTRICITY
+Read Estate,REITs,4330,RIYAD REIT
+Read Estate,REITs,4331,ALJAZIRA REIT
+Read Estate,REITs,4332,JADWA REIT ALHARAMAIN
+Read Estate,REITs,4333,TALEEM REIT
+Read Estate,REITs,4334,AL MAATHER REIT
+Read Estate,REITs,4335,MUSHARAKA REIT
+Read Estate,REITs,4336,MULKIA REIT
+Read Estate,REITs,4337,MASHAAR REIT
+Read Estate,REITs,4338,ALAHLI REIT 1
+Read Estate,REITs,4339,DERAYAH REIT
+Read Estate,REITs,4340,Al RAJHI REIT
+Read Estate,REITs,4342,JADWA REIT SAUDI
+Read Estate,REITs,4344,SEDCO CAPITAL REIT
+Read Estate,REITs,4345,SWICORP WABEL REIT
+Read Estate,REITs,4346,MEFIC REIT
+Read Estate,REITs,4347,BONYAN REIT
+Read Estate,REITs,4348,ALKHABEER REIT
+Read Estate,Real Estate Mgmt & Dev't,4020,ALAKARIA
+Read Estate,Real Estate Mgmt & Dev't,4090,TAIBA
+Read Estate,Real Estate Mgmt & Dev't,4100,MCDC
+Read Estate,Real Estate Mgmt & Dev't,4150,ARDCO
+Read Estate,Real Estate Mgmt & Dev't,4220,EMAAR EC
+Read Estate,Real Estate Mgmt & Dev't,4230,RED SEA
+Read Estate,Real Estate Mgmt & Dev't,4250,JABAL OMAR
+Read Estate,Real Estate Mgmt & Dev't,4300,DAR ALARKAN
+Read Estate,Real Estate Mgmt & Dev't,4310,KEC
+Read Estate,Real Estate Mgmt & Dev't,4320,ALANDALUS
+Read Estate,Real Estate Mgmt & Dev't,4321,ALMRAKEZ
+Read Estate,Real Estate Mgmt & Dev't,4020,SRECO
+Consumer Staples ,Food & Staples Retailing,4161,BINDAWOOD
+Industrials,Commercial & Professional Svc,1832,ALSAMAANI
